@@ -1,16 +1,22 @@
 {
   "files": {
-    "main.css": "/ravinduh/static/css/main.073c9b0a.css",
-    "main.js": "/ravinduh/static/js/main.f40398fe.js",
-    "static/js/787.2cd0ab6d.chunk.js": "/ravinduh/static/js/787.2cd0ab6d.chunk.js",
-    "static/media/logo.svg": "/ravinduh/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/ravinduh/static/css/main.4746a2f3.css",
+    "main.js": "/ravinduh/static/js/main.68075178.js",
+    "static/media/me2.png": "/ravinduh/static/media/me2.09b2c5767e4fddb4e4f5.png",
+    "static/media/goviguru.png": "/ravinduh/static/media/goviguru.5e9565bcfd31eea61e6f.png",
+    "static/media/me.png": "/ravinduh/static/media/me.3e83067b117884b70de5.png",
+    "static/media/RAVINDU_HASANTHA_NAULLAGE.pdf": "/ravinduh/static/media/RAVINDU_HASANTHA_NAULLAGE.d46f7f392414a1c4a123.pdf",
+    "static/media/ewisefiling.png": "/ravinduh/static/media/ewisefiling.36a255fe43b135852424.png",
+    "static/media/zuzu.jpeg": "/ravinduh/static/media/zuzu.b304916966f3d73d168d.jpeg",
+    "static/media/logo.svg": "/ravinduh/static/media/logo.a915eb67f88bd575a0c8237b812a9382.svg",
     "index.html": "/ravinduh/index.html",
-    "main.073c9b0a.css.map": "/ravinduh/static/css/main.073c9b0a.css.map",
-    "main.f40398fe.js.map": "/ravinduh/static/js/main.f40398fe.js.map",
-    "787.2cd0ab6d.chunk.js.map": "/ravinduh/static/js/787.2cd0ab6d.chunk.js.map"
+    "static/media/close.svg": "/ravinduh/static/media/close.313a8e6ce95e72014ca00fb56d8b3ff3.svg",
+    "static/media/open.svg": "/ravinduh/static/media/open.196e865822b06a50385b031f9913c3a0.svg",
+    "main.4746a2f3.css.map": "/ravinduh/static/css/main.4746a2f3.css.map",
+    "main.68075178.js.map": "/ravinduh/static/js/main.68075178.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.f40398fe.js"
+    "static/css/main.4746a2f3.css",
+    "static/js/main.68075178.js"
   ]
 }
