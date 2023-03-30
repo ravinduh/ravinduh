@@ -1,0 +1,32 @@
+[
+  {
+    "title": "ZUZU Hospitality",
+    "image": "zuzu",
+    "description": "I'm currently working as a Software Development Engineer of ZUZU Hospitality which is a technology-led, low-cost alternative to a traditional hotel chain company, providing revenue management, distribution and marketing tailored to increase revenue of hotels across south east asia.",
+    "technologies": "GO | PHP | React | Python | AWS | MYSQL",
+    "github": "",
+    "deployed": "https://zuzuhs.com",
+    "bgcolor": "#f37737",
+    "id": "1"
+  },
+  {
+    "title": "GOVIGURU.LK",
+    "image": "goviguru",
+    "technologies": "Node Js | React Js | Mongo Db | AWS",
+    "description": "This video based learning platform for the organic farmers in Sri Lanka was developed entirely by me and a group of colleagues",
+    "github": "https://github.com/encoretechio/sasrika-backend",
+    "deployed": "http://goviguru-demo.s3-website.us-east-2.amazonaws.com/dashboard/app",
+    "bgcolor": "#29cbe0",
+    "id": "2"
+  },
+  {
+    "title": "Ewis E-filing",
+    "image": "ewisefiling",
+    "technologies": "React native | Mobile app",
+    "description": "Mobile app develeopment for a client was done for their web application which was a email related task filing system",
+    "github": "https://github.com/encoretechio/ewisefiling",
+    "deployed": "",
+    "bgcolor": "#6c4bf4",
+    "id": "3"
+  }
+]
